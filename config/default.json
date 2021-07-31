@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://holyster:Pass,007@clusterpractice.wsqco.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "superkey",
+  "githubClientId": "3cd49e91bc08fda1b6b3",
+  "githubSecret": "116dbc861d3ab6f49f7378a0fe6fcb7c92512ca9"
+}
